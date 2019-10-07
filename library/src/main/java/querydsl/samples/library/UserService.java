@@ -1,4 +1,4 @@
-package querydsl.test;
+package querydsl.samples.library;
 
 import com.querydsl.jpa.impl.JPAQuery;
 

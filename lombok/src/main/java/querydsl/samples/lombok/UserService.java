@@ -1,6 +1,7 @@
-package querydsl.test;
+package querydsl.samples.lombok;
 
 import com.querydsl.jpa.impl.JPAQuery;
+import querydsl.samples.application.QUser;
 
 import javax.persistence.EntityManager;
 

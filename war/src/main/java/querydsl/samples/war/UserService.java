@@ -1,4 +1,4 @@
-package querydsl.test;
+package querydsl.samples.war;
 
 import com.querydsl.jpa.impl.JPAQuery;
 
@@ -15,7 +15,6 @@ public class UserService {
       .from(user)
       .where(user.id.eq(id))
       .fetchOne();
-//    return null;
   }
 
 }

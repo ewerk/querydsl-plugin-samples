@@ -1,4 +1,4 @@
-package querydsl.test;
+package querydsl.samples.war;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

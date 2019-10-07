@@ -1,4 +1,6 @@
-package querydsl.test;
+package querydsl.samples.library;
+
+import querydsl.samples.library.User;
 
 import javax.persistence.Entity;
 

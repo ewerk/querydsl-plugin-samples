@@ -1,4 +1,4 @@
-package querydsl.test;
+package querydsl.samples.lombok;
 
 import lombok.Getter;
 import lombok.Setter;

@@ -14,16 +14,8 @@ dependencies {
 
   // fix for: Unable to load class 'javax.annotation.Generated'.
   implementation("javax.annotation:javax.annotation-api:1.3.2")
-
-//  compile("com.querydsl:querydsl-apt:4.2.1")
-//  annotationProcessor("com.querydsl:querydsl-apt:4.2.1")
 }
 
 querydsl {
   isJpa = true
 }
-
-//project.configurations.named("annotationProcessor") {
-//  val compileOnly by project.configurations
-//  extendsFrom(compileOnly)
-//}
