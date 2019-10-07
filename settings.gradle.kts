@@ -1,12 +1,4 @@
-rootProject.name = "querydsl-examples"
-
-pluginManagement {
-    repositories {
-        mavenLocal()
-        mavenCentral()
-        gradlePluginPortal()
-    }
-}
+rootProject.name = "querydsl-plugin-samples"
 
 include(":application")
 include(":library")
