@@ -1,5 +1,5 @@
 plugins {
-  java
+  `java-library`
   id("com.ewerk.gradle.plugins.querydsl") version "2.0.0-SNAPSHOT"
 }
 
